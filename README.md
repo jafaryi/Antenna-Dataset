@@ -39,4 +39,24 @@ Data with sunlight/
 │   ├── image/
 │   ├── label/
 
+1. **General Antenna Dataset (`antenna_dataset`)**
+   - This folder contains the general dataset images and annotations used for training and validating YOLO models in typical conditions.
+   - Subdirectories:
+     - **`train/`**: Contains the training data.
+       - `images/`: The training images.
+       - `labels/`: YOLO-format annotations corresponding to the training images.
+     - **`valid/`**: Contains the validation data.
+       - `images/`: The validation images.
+       - `labels/`: YOLO-format annotations corresponding to the validation images.
+
+2. **Data with Sunlight Effects (`Data with sunlight`)**
+   - This folder focuses on antenna data under challenging lighting conditions (e.g., direct sunlight) to improve YOLO model robustness in such environments.
+   - Subdirectories:
+     - **`train/`**: Contains training data for antennas under sunlight.
+       - `image/`: The training images with sunlight effects.
+       - `label/`: YOLO-format annotations corresponding to the training images.
+     - **`test/`**: Contains testing data for antennas under sunlight.
+       - `image/`: The testing images with sunlight effects.
+       - `label/`: YOLO-format annotations corresponding to the testing images.
+
 
