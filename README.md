@@ -24,10 +24,19 @@ You can download the dataset from the following link: [Dataset Link]( https://dr
 The dataset is organized as follows:
 
 antenna_dataset/
-antenna_dataset/ ├── train/ │ ├── images/ # Training images │ ├── labels/ # YOLO-format labels for training ├── valid/ │ ├── images/ # Validation images │ ├── labels/ # YOLO-format labels for validation
+├── train/
+│   ├── images/
+│   ├── labels/
+├── valid/
+│   ├── images/
+│   ├── labels/
 
-Data with sunlight/ ├── train/ │ ├── image/ # Training images under sunlight conditions │ ├── label/ # YOLO-format labels for sunlight training ├── test/ │ ├── image/ # Testing images under sunlight conditions │ ├── label/ # YOLO-format labels for sunlight testing  
-
-
+Data with sunlight/
+├── train/
+│   ├── image/
+│   ├── label/
+├── test/
+│   ├── image/
+│   ├── label/
 
 
