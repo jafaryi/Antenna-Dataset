@@ -23,22 +23,6 @@ You can download the dataset from the following link: [Dataset Link]( https://dr
 ## Dataset Structure
 The dataset is organized as follows:
 
-antenna_dataset/
-├── train/
-│   ├── images/
-│   ├── labels/
-├── valid/
-│   ├── images/
-│   ├── labels/
-
-Data with sunlight/
-├── train/
-│   ├── image/
-│   ├── label/
-├── test/
-│   ├── image/
-│   ├── label/
-
 1. **General Antenna Dataset (`antenna_dataset`)**
    - This folder contains the general dataset images and annotations used for training and validating YOLO models in typical conditions.
    - Subdirectories:
