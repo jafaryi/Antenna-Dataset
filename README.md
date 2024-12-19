@@ -43,10 +43,9 @@ The dataset is organized as follows:
        - `image/`: The testing images with sunlight effects.
        - `label/`: YOLO-format annotations corresponding to the testing images.
       
-![00493_frame_202403082052376829](https://github.com/user-attachments/assets/813c61c5-328a-4c0b-8ad6-17cbb11d7061)
+![Dataset](https://github.com/user-attachments/assets/fde77bf1-6aff-4a08-b601-8ca69c3fb362)  
+*Figure 1: Dataset*
 
-
-![00941_frame_202403082050306421](https://github.com/user-attachments/assets/7112067f-6105-4556-8d74-495fe532c934)
 
 
 
