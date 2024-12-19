@@ -13,10 +13,10 @@ Annotations are provided in YOLO format to ensure compatibility with YOLO traini
 
 
 
-Data Source
+Data Source :
 The images in this dataset were collected from publicly available YouTube videos. These videos were carefully selected to ensure a diverse and representative collection of antenna-related images.
 
-Dataset Link
+Dataset Link :
 You can download the dataset from the following link: [Dataset Link]( https://drive.google.com/file/d/1jFjSSOv4nJ_-z-rTVW3mcS-uE5K7S9_p/view?usp=sharing)
 
 
