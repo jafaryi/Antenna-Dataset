@@ -9,7 +9,7 @@ All annotations in this dataset were auto-annotated and have not been manually r
 
 Annotations are provided in YOLO format to ensure compatibility with YOLO training pipelines.
 
-            ![brightness](https://github.com/user-attachments/assets/3975b971-2419-4cc5-a5e6-23a151fb0d31)
+![brightness](https://github.com/user-attachments/assets/3975b971-2419-4cc5-a5e6-23a151fb0d31)
 
 
 
@@ -25,19 +25,19 @@ The dataset is organized as follows:
 
 antenna_dataset/
 ├── train/
-│   ├── images/       # Training images for general antenna data
-│   ├── labels/       # YOLO-format annotations for training images
+│   ├── images/       
+│   ├── labels/      
 ├── valid/
-│   ├── images/       # Validation images for general antenna data
-│   ├── labels/       # YOLO-format annotations for validation images
+│   ├── images/      
+│   ├── labels/       
 
 Data with sunlight/
 ├── train/
-│   ├── image/        # Training images with sunlight effects
-│   ├── label/        # YOLO-format annotations for training images
+│   ├── image/       
+│   ├── label/        
 ├── test/
-│   ├── image/        # Testing images with sunlight effects
-│   ├── label/        # YOLO-format annotations for testing images
+│   ├── image/        
+│   ├── label/        
 
 
 
