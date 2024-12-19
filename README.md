@@ -46,12 +46,12 @@ The dataset is organized as follows:
 *Figure 1: Dataset*
 
 ## Installation
-To use this dataset for YOLO training, you need the following:
+To download this dataset for YOLO training, follow these steps:
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/jafaryi/Antenna-Dataset.git
-   cd Antenna-Dataset
+
 
 
 
