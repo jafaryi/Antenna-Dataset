@@ -55,7 +55,7 @@ To download this dataset for YOLO training, follow these steps:
 
 ## BBox Tester
 
-The repository includes a folder named `BBox Tester` that contains Python scripts for testing bounding boxes and related functionalities. These scripts can be used to visualize and validate the bounding box annotations from the dataset.
+The repository includes a folder named `BBox_tester.rar` that contains Python scripts for testing bounding boxes and related functionalities. These scripts can be used to visualize and validate the bounding box annotations from the dataset.
 
 ### Scripts in the BBox Tester Folder
 
