@@ -1,4 +1,4 @@
-![brightness](https://github.com/user-attachments/assets/7247b23f-9cad-4f7d-9ec7-9f12a33d2746)# Antenna-Dataset
+# Antenna-Dataset
 This dataset is prepared for YOLO object detection model training, specifically focused on detecting antennas. 
 
 The dataset contains two subsets:
