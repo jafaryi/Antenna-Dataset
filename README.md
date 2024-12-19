@@ -46,15 +46,5 @@ The dataset is organized as follows:
 
 
 
-### Key Notes:
-1. Replace `path/to/image.jpg` with the actual path to your image file. If the image is hosted online, use the full URL.
-2. The caption is written directly under the image and can be styled as plain text or italicized using `*` or `_`.
-
-For example:
-- Local Image: `![Dataset Example]([brightness](https://github.com/user-attachments/assets/3975b971-2419-4cc5-a5e6-23a151fb0d31))`
-
-
-This will render the image with a caption below it in your GitHub README. Let me know if you need help embedding your specific image!
-
 
 
