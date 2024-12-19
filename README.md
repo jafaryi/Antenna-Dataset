@@ -73,12 +73,6 @@ The repository includes a folder named `BBox Tester` that contains Python script
 4. **`use_for_T3.py`**  
    This script is designed for specialized transformations or bounding box-related debugging tasks.
 
-### How to Use the BBox Tester Scripts
-
-1. Navigate to the `BBox Tester` folder:
-   ```bash
-   cd BBox\ Tester
-
 
 
 
