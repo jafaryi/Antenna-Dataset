@@ -53,6 +53,31 @@ To download this dataset for YOLO training, follow these steps:
    git clone https://github.com/jafaryi/Antenna-Dataset.git
 
 
+## BBox Tester
+
+The repository includes a folder named `BBox Tester` that contains Python scripts for testing bounding boxes and related functionalities. These scripts can be used to visualize and validate the bounding box annotations from the dataset.
+
+### Scripts in the BBox Tester Folder
+
+1. **`mytest.py`**  
+   This script performs basic tests to visualize the bounding boxes over the images.  
+   - **`path_pic`**: Specify the path to the folder containing your images (e.g., `./antenna_dataset/train/images`).
+   - **`path_annotation`**: Specify the path to the folder containing YOLO-format annotation files (e.g., `./antenna_dataset/train/labels`).
+
+2. **`test_BBox.py`**  
+   This script visualizes bounding boxes using the dataset images and their corresponding annotations.
+
+3. **`test.py`**  
+   This script provides additional validation for YOLO annotations.
+
+4. **`use_for_T3.py`**  
+   This script is designed for specialized transformations or bounding box-related debugging tasks.
+
+### How to Use the BBox Tester Scripts
+
+1. Navigate to the `BBox Tester` folder:
+   ```bash
+   cd BBox\ Tester
 
 
 
