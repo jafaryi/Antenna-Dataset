@@ -9,7 +9,6 @@ All annotations in this dataset were auto-annotated and have not been manually r
 
 Annotations are provided in YOLO format to ensure compatibility with YOLO training pipelines.
 
-![brightness](https://github.com/user-attachments/assets/3975b971-2419-4cc5-a5e6-23a151fb0d31)
 
 
 
